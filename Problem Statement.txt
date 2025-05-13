@@ -1,0 +1,5 @@
+Tittle: Event Ticket Booking System
+
+Problem Statement: Build a Java-based Event Ticket Booking System where users can register, book tickets for
+events, and admins can manage events. Apply OOP principles and ensure persistence using
+file handling.
